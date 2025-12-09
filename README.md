@@ -44,6 +44,9 @@ Week-11-Lecture
    *  즉 무작위 뽑기 = 평균(μ) + 분산(σ) × 노이즈(ε) 형태로 재구성하여,
    *  랜덤 요소는 외부에서 제공하고 모델은 평균과 분산만 조절하도록 바뀐다.
    *  <img width="445" height="215" alt="image" src="https://github.com/user-attachments/assets/aa3ce0d4-01b6-4836-977c-dbd0a30e3e22" />
+   * 일상비유
+   <img width="943" height="537" alt="image" src="https://github.com/user-attachments/assets/b1c8095e-39e2-4b20-bd04-bcf525514547" />
+
 
    *  그 결과 모델은 출력이 잘못되면 평균이나 분산 값을 미분을 통해 조정할 수 있게 되어 학습이 가능해진다.
    *  이 트릭 덕분에 VAE는 확률적 생성 과정을 포함하면서도 역전파가 가능해졌고,
