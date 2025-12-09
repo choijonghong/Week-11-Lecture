@@ -56,7 +56,4 @@ Week-11-Lecture
 
 ### 참고 파일
 
-* 논문1. ImageNet Classification with Deep Convolutional Neural Networks
-* 코드1. CiFAR-10 분류를 위한 CNN 모델
-* 코드해설 1. CiFAR-10 분류를 위한 CNN 모델 해설
-* CNN+합성곱 예시. 
+* 논문1. Auto-Encoding Variational Bayes
