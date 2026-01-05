@@ -67,3 +67,9 @@ Week-11-Lecture
 ### 참고 파일
 
 * 논문1. Auto-Encoding Variational Bayes
+
+  
+### 참고 영상
+
+* [유튜브 영상해설 경사하강법](https://www.youtube.com/watch?v=8861RzFOFs8)
+
